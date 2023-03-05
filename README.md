@@ -34,8 +34,10 @@
     <h2 align="center" >📊 Some of my stats</h2>
 <div/>
 
+<div align="center">
 ![GabriCw's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabricw&show_icons=true&theme=radical)
 ![GabriCw's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabricw&layout=compacte&theme=radical)
+<div/>
 
 
 <div style="display: inline_block"><br>
