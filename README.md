@@ -5,7 +5,7 @@
   </div>
   
   <div align="center">
-    <img align="center" height="220" width="400" src="https://piadasdeprogramador.files.wordpress.com/2013/04/chico.jpg" />
+    <img align="center" height="220" width="400" src="https://eufacoprogramas.com/wp-content/uploads/2018/12/eufacoprogramas-CM.png" />
   </div>
   <div style="display: inline_block"><br> 
   <h2 align="center" >🙋🏻‍♂️ About me</h2>
