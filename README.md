@@ -1,5 +1,5 @@
 <div style="display: inline_block"><br>
-  <img align="right" height="100" width="100" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73e61ecd-e2c8-4785-9ed3-d6ccd5d0826e/d51g5vd-c4272437-5e57-4528-aa6b-ef5c2fe29ee5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzczZTYxZWNkLWUyYzgtNDc4NS05ZWQzLWQ2Y2NkNWQwODI2ZVwvZDUxZzV2ZC1jNDI3MjQzNy01ZTU3LTQ1MjgtYWE2Yi1lZjVjMmZlMjllZTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-8LQeGccaadLvQg5tCr9nZw4JaM-yLPZ2w0NmrFSgDE" />
+  <img align="right" height="50" width="50" src="https://media0.giphy.com/media/3o85xBH1NjrRfa8kPm/giphy.gif" />
     <img align="left" height="50" width="60" src="https://camo.githubusercontent.com/a0d58634789b846466557b4c210c1638560a4bd4457161899e026ce7345bb288/687474703a2f2f32352e6d656469612e74756d626c722e636f6d2f63393961353739646233616530666331363462663463636131343838383564332f74756d626c725f6d6a6776386b45754d67317338376e37396f315f3430302e676966" />
   <h1 align="center" >👌Hey I'm Gabriel Couto</h1>
   </div>
