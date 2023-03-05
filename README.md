@@ -1,5 +1,5 @@
 <div style="display: inline_block"><br>
-  <h1 align="center" >Hey I'm Gabriel Couto</h1>
+  <h1 align="center" >👌Hey I'm Gabriel Couto</h1>
   </div>
   
   <div align="center">
@@ -7,8 +7,8 @@
   </div>
   <div style="display: inline_block"><br> 
   <h2 align="center" >🙋🏻‍♂️ About me</h2>
-    <h4 align="center" ></h4>
-  <h4 align="center" ></h4>
+    <h4 align="center" >Currently student of Computer Engineering at IMT, knowledge in Cyber Security, Python, Java and C programming.</h4>
+  <h4 align="center" >Advanced English and Basic to Intermediate Spanish.</h4>
 <div/>
   
  <div style="display: inline_block"><br> 
