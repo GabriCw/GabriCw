@@ -1,6 +1,6 @@
 <div style="display: inline_block"><br>
-  <img align="right" height="50" width="50" src="https://media0.giphy.com/media/3o85xBH1NjrRfa8kPm/giphy.gif" />
-    <img align="left" height="50" width="60" src="https://camo.githubusercontent.com/a0d58634789b846466557b4c210c1638560a4bd4457161899e026ce7345bb288/687474703a2f2f32352e6d656469612e74756d626c722e636f6d2f63393961353739646233616530666331363462663463636131343838383564332f74756d626c725f6d6a6776386b45754d67317338376e37396f315f3430302e676966" />
+  <img align="right" height="70" width="70" src="https://media0.giphy.com/media/3o85xBH1NjrRfa8kPm/giphy.gif" />
+    <img align="left" height="70" width="80" src="https://camo.githubusercontent.com/a0d58634789b846466557b4c210c1638560a4bd4457161899e026ce7345bb288/687474703a2f2f32352e6d656469612e74756d626c722e636f6d2f63393961353739646233616530666331363462663463636131343838383564332f74756d626c725f6d6a6776386b45754d67317338376e37396f315f3430302e676966" />
   <h1 align="center" >👌Hey I'm Gabriel Couto</h1>
   </div>
   
