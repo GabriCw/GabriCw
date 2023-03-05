@@ -5,7 +5,7 @@
   </div>
   
   <div align="center">
-    <img align="center" height="180" width="360" src="https://i0.wp.com/iphaids.org/wp-content/uploads/2021/02/tocando-guitarra.gif?resize=350%2C351&ssl=1" />
+    <img align="center" height="180" width="360" src="https://piadasdeprogramador.files.wordpress.com/2013/04/chico.jpg" />
   </div>
   <div style="display: inline_block"><br> 
   <h2 align="center" >🙋🏻‍♂️ About me</h2>
