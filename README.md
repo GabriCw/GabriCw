@@ -5,7 +5,7 @@
   </div>
   
   <div align="center">
-    <img align="center" height="220" width="400" src="https://i.imgflip.com/6btbpy.jpg" />
+    <img align="center" height="180" width="360" src="https://i.imgflip.com/6btbpy.jpg" />
   </div>
   <div style="display: inline_block"><br> 
   <h2 align="center" >🙋🏻‍♂️ About me</h2>
