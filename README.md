@@ -10,6 +10,7 @@
   <div style="display: inline_block"><br> 
   <h2 align="center" >🙋🏻‍♂️ About me</h2>
     <h4 align="center" >Currently student of Computer Engineering at IMT, Python, Java, C, HTML, CSS, JavaScript, React, LaTeX and Arduino programming.</h4>
+    <h4 align="center" >Also programing  Industrial Cells using Structured Text.</h4>
   <h4 align="center" >Advanced English and Basic to Intermediate Spanish.</h4>
 <div/>
   
